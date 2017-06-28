@@ -12,7 +12,7 @@ I am seeking a part time or full time position as software engineer in applicati
 
 ### The Evergreen State College, Olympia, WA
 
-**Fall 2016 - Present **
+**Fall 2016 - Present**
 
 Concentration in Computer Science, with subconcentration on Data Analysis.
 
