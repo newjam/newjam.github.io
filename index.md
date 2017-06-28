@@ -1,6 +1,10 @@
+# James Newman
+
+jameshildrethnewman@gmail.com
+
 # Objective
 
-I am seeking a part time or full time position as software engineer in application development and backend programming, or technical liaison between customers and engineering.
+I am seeking temporary part time or full time position as software developer or data engineer for summer 2017.
 
 # Skills
 
@@ -14,7 +18,7 @@ I am seeking a part time or full time position as software engineer in applicati
 
 **Fall 2016 - Present**
 
-Concentration in Computer Science, with subconcentration on Data Analysis.
+Concentration in Computer Science
 
 **Fall 2009 - Winter 2012**
 
