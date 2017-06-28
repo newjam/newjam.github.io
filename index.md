@@ -4,19 +4,31 @@ I am seeking a part time or full time position as software engineer in applicati
 
 # Skills
 
-**Proficient** at programming in Java, C#, Python, Haskell, SQL. **Experience** in Ruby, PHP C/C++, ASM, PHP
+**Proficient** at programming in Java, C#, Python, Haskell, SQL, R. **Experience** in Ruby, PHP C/C++, ASM, PHP
 
-**Proficient using these technologies:** Unit testing, version control, quality assurance systems, .Net, RoR, object oriented\ programming, functional programming, databases
+**Proficient using these technologies:** Unit testing, version control, quality assurance systems, .Net, RoR, object oriented\ programming, functional programming, databases, machine learning, statistics
 
 # Education
 
 ### The Evergreen State College, Olympia, WA
+
+**Fall 2016 - Present **
+
+Concentration in Computer Science, with subconcentration on Data Analysis.
 
 **Fall 2009 - Winter 2012**
 
 Concentration in Computer Science
 
 # Experience
+
+### Pixatel Systems, Olympia, WA
+**Software Developer** December 2013 to September 2016
+
+Lead developer on grade school math education solution. Worked on front end web development, Android, and Java and MySQL backend web development. Contributed to application planning, operations, and management of junior developers.
+
+Developer of backend support system for free to play mobile game.
+
 ### Janrain, Portland, Oregon
 **Intern Software Engineer** - May to September, 2012
 
