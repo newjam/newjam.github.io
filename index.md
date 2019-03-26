@@ -16,14 +16,14 @@ I am seeking a position in software development.
 
 ### The Evergreen State College, Olympia, WA
 
-**Fall 2009 - Winter 2012 and Fall 2016 - Spring 2018 **
+**Fall 2009 - Winter 2012 and Fall 2016 - Spring 2018**
 
 Concentration in Computer Science and Mathematics.
 
 # Experience
 
 ### EDURange, Olympia, WA
-** Research Assistant ** June 2018 to Present
+**Research Assistant** June 2018 to Present
 
 Administered and developed a cloud based educational cybersecurity playground implemented with Ruby on Rails, SQLite and Postregresql, and Amazon AWS.
 
