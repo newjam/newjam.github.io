@@ -25,7 +25,7 @@ Concentration in Computer Science and Mathematics.
 ### EDURange, Olympia, WA
 **Research Assistant** June 2018 to Present
 
-Administered and developed a cloud based educational cybersecurity playground implemented with Ruby on Rails, SQLite and Postregresql, and Amazon AWS.
+Administered and developed a cloud based educational cybersecurity playground implemented with Ruby on Rails, SQLite and PostgreSQL, and Amazon AWS.
 
 ### Pixatel Systems, Olympia, WA
 **Software Developer** December 2013 to September 2016
