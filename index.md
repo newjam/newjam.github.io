@@ -8,9 +8,9 @@ I am seeking a position in software development.
 
 # Skills
 
-**Proficient** at programming in Java, Python, Haskell, Ruby, SQL, R. **Experience** in C#, PHP C/C++
+**Proficient** at programming in Java, Python, JavaScript, Haskell, Ruby, SQL, R. **Experience** in C#, PHP C/C++
 
-**Proficient using these technologies:** Unit testing, version control, quality assurance systems, .Net, RoR, object oriented  programming, functional programming, databases, machine learning, statistics
+**Proficient using these technologies:** Unit testing, version control, quality assurance systems, .Net, React, RoR, object oriented  programming, functional programming, databases, machine learning, statistics
 
 # Education
 
