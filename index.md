@@ -4,27 +4,28 @@ jameshildrethnewman@gmail.com
 
 # Objective
 
-I am seeking temporary part time or full time position as software developer or data engineer for summer 2017.
+I am seeking a position in software development.
 
 # Skills
 
-**Proficient** at programming in Java, C#, Python, Haskell, SQL, R. **Experience** in Ruby, PHP C/C++, ASM, PHP
+**Proficient** at programming in Java, Python, Haskell, Ruby, SQL, R. **Experience** in C#, PHP C/C++
 
-**Proficient using these technologies:** Unit testing, version control, quality assurance systems, .Net, RoR, object oriented\ programming, functional programming, databases, machine learning, statistics
+**Proficient using these technologies:** Unit testing, version control, quality assurance systems, .Net, RoR, object oriented  programming, functional programming, databases, machine learning, statistics
 
 # Education
 
 ### The Evergreen State College, Olympia, WA
 
-**Fall 2016 - Present**
+**Fall 2009 - Winter 2012 and Fall 2016 - Spring 2018 **
 
-Concentration in Computer Science
-
-**Fall 2009 - Winter 2012**
-
-Concentration in Computer Science
+Concentration in Computer Science and Mathematics.
 
 # Experience
+
+### EDURange, Olympia, WA
+** Research Assistant ** June 2018 to Present
+
+Administered and developed a cloud based educational cybersecurity playground implemented with Ruby on Rails, SQLite and Postregresql, and Amazon AWS.
 
 ### Pixatel Systems, Olympia, WA
 **Software Developer** December 2013 to September 2016
@@ -44,7 +45,7 @@ Contributed features and bug fixes to the backend of a single sign-on and user i
 Implemented realtime graphics performance analysis modules in support of internal application features in C++, as well as test infrastructure for graphics performance analysis software in C#
 
 ### The Evergreen State College
-**Computer Science Tutor** - 2010 to 2011
+**Computer Science Tutor** - 2010 to 2011 and 2017 to 2018
 
 Assisted students and graded assignments.
 
